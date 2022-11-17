@@ -9,6 +9,9 @@ li {
 
 /* yikes forgot all the colors */
 /* 4. make elem bg color yellow */
+body aside {
+  background-color: yellow;
+}
 
 /* 5. make elem bg color green when hovered over  */
 
